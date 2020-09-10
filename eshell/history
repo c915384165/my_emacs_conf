@@ -1,0 +1,9 @@
+pwd
+ls
+cd
+ls
+cd emacs_lisp/
+ls
+ls
+pwd
+vi new.html
